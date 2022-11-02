@@ -1,0 +1,37 @@
+.add-card {
+  margin-top: -15px;
+}
+
+.add-card .form {
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+}
+
+.form label {
+  align-self: flex-start;
+  margin-bottom: 5px;
+  font-size: 15px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.form label::first-letter {
+  color: #dfc39e;
+  font-size: 25px;
+}
+
+.form input {
+  padding: 5px 12px;
+  font-size: 15px;
+  margin-bottom: 15px;
+  outline: none;
+  border: none;
+  border-bottom: 0.5px dashed #dfc39e;
+  background-color: #ffffff1a;
+  color: #fff;
+}
+
+.form input:focus {
+  outline: none;
+}

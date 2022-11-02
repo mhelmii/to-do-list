@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkto_do_list=self.webpackChunkto_do_list||[]).push([[514],{514:function(n,t,i){i.r(t),i.d(t,{default:function(){return c}});i(791);var e=i(123),l="ToDolist_list__Kkhfi",s=i(184),c=function(n){return 0===n.list.length?(0,s.jsx)(e.Z,{className:l,children:(0,s.jsx)("h2",{children:"Nothing To Do Yet !"})}):(0,s.jsx)("div",{className:l,children:(0,s.jsx)("ul",{children:n.list.map((function(t){return(0,s.jsx)("li",{onClick:function(){return n.onDelete(t.id)},children:t.content},t.id)}))})})}}}]);
+//# sourceMappingURL=514.5cb26020.chunk.js.map
